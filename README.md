@@ -2,7 +2,7 @@
 
 ## Initial Setup
 
-Extract and copy the contents of the DevArtifacts.zip to the root of your project  
+Extract and copy the contents of the <b>DevArtifacts.zip</b> to the root of your project  
 1. Run npm install  
    You have to have npm installed on your machine for that to work  
    A new node_modules will be added with dev tool dependencies.  
