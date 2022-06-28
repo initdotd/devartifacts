@@ -8,7 +8,7 @@ Extract and copy the contents of the <b>DevArtifacts.zip</b> to the root of your
    A new node_modules will be added with dev tool dependencies.  
    That folder is ignored already by .gitignore  
 2. Run <b>sfdx plugins:install @salesforce/sfdx-scanner</b>  
-3. Run <b>git init<b/> 
+3. Run <b>git init</b> 
    Will initialize a local git repository for you  
 4. Run <b>git add .</b>  
 5. Run <b>git commit -am “Initial commit"</b>  
