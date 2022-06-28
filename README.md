@@ -4,12 +4,12 @@
 
 Extract and copy the contents of the DevArtifacts.zip to the root of your project  
 1. Run npm install  
-- You have to have npm installed on your machine for that to work  
-- A new node_modules will be added with dev tool dependencies.  
-- That folder is ignored already by .gitignore  
+   You have to have npm installed on your machine for that to work  
+   A new node_modules will be added with dev tool dependencies.  
+   That folder is ignored already by .gitignore  
 2. Run sfdx plugins:install @salesforce/sfdx-scanner  
 3. Run git init  
-- Will initialize a local git repository for you  
+   Will initialize a local git repository for you  
 4. Run git add .  
 5. Run git commit -am “Initial commit  
   
